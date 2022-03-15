@@ -1,0 +1,110 @@
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\IndexRange.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Formats.Asn1.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WTelegramClient.dll
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Formats.Asn1.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Text.Json.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.pdb
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WTelegramClient.xml
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\FRZ\Desktop\Новая папка (3)\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\IndexRange.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Formats.Asn1.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\WTelegramClient.dll
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Formats.Asn1.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Text.Json.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.pdb
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\bin\x64\Debug\WTelegramClient.xml
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\FRZ\Desktop\VoiseAssistant\Dimas\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
